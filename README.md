@@ -26,5 +26,5 @@ API позволяет:
 
 ### 1. Клонируй репозиторий
 ```bash
-git clone https://github.com/yourname/GoRestAPI.git
+git clone https://github.com/the-student-of-school-366/GoRestAPI.git
 cd GoRestAPI
